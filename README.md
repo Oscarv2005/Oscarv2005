@@ -167,21 +167,11 @@ Automated **result management system** with secure APIs, JWT auth, and robust da
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Oscarv2005&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Oscarv2005/Oscarv2005/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Oscarv2005/Oscarv2005/output/snake.svg)
 
 </div>
 
