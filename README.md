@@ -139,7 +139,11 @@ Designed an automated academic records platform that links a dynamic UI with a s
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oscarv2005/Oscarv2005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oscarv2005/Oscarv2005/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Oscarv2005/Oscarv2005/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 ---
