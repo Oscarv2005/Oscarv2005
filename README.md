@@ -1,102 +1,74 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Oscar%20Vishnoi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<br/>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ff88&height=200&section=header&text=Oscar%20Vishnoi&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20ML%20Engineer%20%7C%20DSA%20Grinder&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <div align="center">
 
-<!-- Animated Mascot -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=console.log('Hey!+I'm+Oscar+👋');Building+Full+Stack+%2B+ML+Apps+🚀;React+|+Node.js+|+Python+|+C%2B%2B;LeetCode+1600%2B+Rating+🔥;Turning+ideas+into+products+💡" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Oscar+%F0%9F%91%8B;Full+Stack+Dev+%2B+ML+Engineer+%F0%9F%A4%96;React+%7C+Node.js+%7C+Python+%7C+C%2B%2B;LeetCode+1600%2B+%7C+150%2B+DSA+Problems+%F0%9F%94%A5;Building+real+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/oscar-vishnoi-data-science/)
-[![GitHub](https://img.shields.io/badge/-GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Oscarv2005)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://oscarv2005.github.io/Portfolio)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-302b63?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-0f0c29?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/)
-[![Gmail](https://img.shields.io/badge/-oscarvishnoi0@gmail.com-24243e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:oscarvishnoi0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF88.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/oscar-vishnoi-data-science/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF88.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://oscarv2005.github.io/Portfolio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2300FF88.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300FF88.svg?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-%2300FF88.svg?style=for-the-badge&logo=gmail&logoColor=black)](mailto:oscarvishnoi0@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" />
 
-### 🧠 `whoami`
+### `$ whoami`
 
-```bash
-$ cat oscar.json
-```
-```json
-{
-  "name"     : "Oscar Vishnoi",
-  "role"     : "Full Stack Dev + ML Engineer",
-  "location" : "Punjab, India 🇮🇳",
-  "stack"    : ["React", "Node.js", "Python", "C++", "MongoDB"],
-  "dsa"      : "LeetCode 1600+ | 150+ problems solved",
-  "building" : "StackPredict — AI-powered stack predictor",
-  "contact"  : "oscarvishnoi0@gmail.com"
-}
+```js
+const oscar = {
+  name     : "Oscar Vishnoi",
+  location : "Punjab, India 🇮🇳",
+  role     : ["Full Stack Dev", "ML Engineer"],
+  stack    : ["React", "Node.js", "Python", "C++"],
+  dsa      : "LeetCode 1600+ | 150+ solved 🧩",
+  building : "StackPredict — AI stack predictor",
+  email    : "oscarvishnoi0@gmail.com",
+  goal     : "ship fast, learn faster 🚀"
+};
 ```
 
-- 🔭 Currently working on **end-to-end ML full-stack apps**
-- 🌱 Going deeper into **Data Science & Flask ML APIs**
-- ⚡ 14% ML accuracy boost & API response **< 200ms**
-- 💬 Ask me about **React · Node.js · Python · DSA**
+- 🔭 Working on **end-to-end ML full-stack apps**
+- ⚡ Boosted ML model accuracy by **14%**, API **< 200ms**
+- 🌱 Learning deeper **Data Science & Flask ML APIs**
+- 💬 Talk to me: **React · Node · Python · DSA**
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠 Tech Stack
 
 <div align="center">
 
-**Languages**
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript&theme=dark" />
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
 
-**Frontend**
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&theme=dark" />
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**ML / Data Science**
-
+### ML / Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 </div>
@@ -105,50 +77,52 @@ $ cat oscar.json
 
 ## 🚀 Projects
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🤖 StackPredict
-> AI-Powered Stack Prediction App · *Jun 2025*
-
-End-to-end **full-stack ML application** with React frontend, Node/Express backend, and Python ML pipeline.
-
-- 📈 **+14% model accuracy** improvement
-- ⚡ API response time **< 200ms**
-- 📊 Interactive real-time dashboard
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
-![Scikit](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-[![View Repo →](https://img.shields.io/badge/View%20Repo%20→-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oscarv2005/StackPredict-front)
-
+<h3 align="center">🤖 StackPredict</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+<br/><br/>
+<p>End-to-end <b>AI-powered full-stack ML app</b> with React, Node/Express backend & Python ML pipeline.</p>
+<p>📈 <b>+14% model accuracy</b> · ⚡ <b>&lt; 200ms</b> API response · 📊 Interactive dashboard</p>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/Oscarv2005/StackPredict-front">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-%2300FF88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</div>
 </td>
 <td width="50%" valign="top">
-
-### 📋 Student Result Management
-> Automated Result System · *Oct 2023*
-
-Automated **result management system** with secure APIs, JWT auth, and robust database architecture.
-
-- 🔐 JWT auth + CRUD APIs
-- 📉 **40% reduction** in data entry errors
-- 👥 Manages **500+ student profiles**
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-[![View Repo →](https://img.shields.io/badge/View%20Repo%20→-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oscarv2005/Student-Result-Management)
-
+<h3 align="center">📋 Student Result Manager</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<br/><br/>
+<p>Automated <b>result management system</b> with JWT auth, secure CRUD APIs & MongoDB database.</p>
+<p>🔐 <b>JWT Auth</b> · 📉 <b>40% fewer errors</b> · 👥 <b>500+ profiles</b></p>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/Oscarv2005/Student-Result-Management">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-%2300FF88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</div>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -156,32 +130,32 @@ Automated **result management system** with secure APIs, JWT auth, and robust da
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Oscarv2005&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarv2005&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Oscarv2005&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarv2005&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="170"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Oscarv2005&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Oscarv2005&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Oscarv2005/Oscarv2005/output/snake.svg)
+[![Oscar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oscarv2005&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 💬 Dev Quote
 
 <div align="center">
 
-[![Oscar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oscarv2005&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -189,32 +163,24 @@ Automated **result management system** with secure APIs, JWT auth, and robust da
 
 <div align="center">
 
-## 🤝 Let's Connect
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" />
 
-<a href="https://www.linkedin.com/in/oscar-vishnoi-data-science/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=302b63" />
-</a>
-<a href="mailto:oscarvishnoi0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=302b63" />
-</a>
-<a href="https://oscarv2005.github.io/Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=302b63" />
-</a>
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=302b63" />
-</a>
+### 🤝 Let's Build Something Together
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Oscarv2005&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=111)](https://www.linkedin.com/in/oscar-vishnoi-data-science/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=111)](mailto:oscarvishnoi0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff88&labelColor=111)](https://oscarv2005.github.io/Portfolio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=111)](https://leetcode.com/)
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Oscarv2005&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&labelColor=0d1117)
 
-**⭐ Star my repos if you find them useful!**
+<br/>
+
+**⭐ If you like my work, drop a star on my repos!**
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=120&section=footer" />
