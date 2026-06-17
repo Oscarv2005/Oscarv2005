@@ -135,6 +135,20 @@ Designed an automated academic records platform that links a dynamic UI with a s
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oscarv2005/Oscarv2005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oscarv2005/Oscarv2005/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Oscarv2005/Oscarv2005/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
