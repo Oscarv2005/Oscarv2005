@@ -82,61 +82,54 @@ oscar = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    ~/projects $ ls -la                       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<!--  ─────────────────────────  CARD 1  ───────────────────────── -->
+<table>
+<tr>
+<td width="50px" align="center">🤖</td>
+<td>
 
-</div>
+### [Stack Predict — ML Prediction Platform](https://github.com/Oscarv2005/StackPredict-front)
 
-<!-- Project 1 -->
-<div align="center">
-<a href="https://github.com/Oscarv2005/StackPredict-front">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=9999&color=00FF88&center=true&vCenter=true&width=700&lines=%24+cd+StackPredict+%7C+Full-Stack+ML+Prediction+Platform" alt="StackPredict"/>
-</a>
-</div>
+Built a full-stack ML application that delivers real-time predictions through an interactive dashboard. The system combines a **React.js** frontend with a **Node.js/Express** backend and a **Python** machine learning pipeline — all wired together via clean REST APIs.
 
-<div align="center">
+> ⚡ **+14% model accuracy** &nbsp;|&nbsp; 🚀 **API response < 200ms** &nbsp;|&nbsp; 📊 **Live prediction dashboard**
 
-|  |  |
-|---|---|
-| 📌 **About** | End-to-end ML app — React frontend · Node/Express backend · Python pipeline |
-| 🎯 **Impact** | +14% model accuracy · REST API response **< 200ms** |
-| 🛠️ **Stack** | `React` `Node.js` `Express` `Flask` `Scikit-Learn` `Pandas` `Matplotlib` |
-| 🔗 **Link** | **[→ github.com/Oscarv2005/StackPredict-front](https://github.com/Oscarv2005/StackPredict-front)** |
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- Project 2 -->
-<div align="center">
-<a href="https://github.com/Oscarv2005/Student-Result-Management">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=9999&color=00FF88&center=true&vCenter=true&width=700&lines=%24+cd+StudentResultManagement+%7C+Secure+Academic+Records+Platform" alt="StudentResult"/>
-</a>
-</div>
+<!--  ─────────────────────────  CARD 2  ───────────────────────── -->
+<table>
+<tr>
+<td width="50px" align="center">📊</td>
+<td>
 
-<div align="center">
+### [Student Result Management System](https://github.com/Oscarv2005/Student-Result-Management)
 
-|  |  |
-|---|---|
-| 📌 **About** | Automated student records system with secure auth and real-time UI |
-| 🎯 **Impact** | -40% data entry errors · Manages **500+** student profiles |
-| 🛠️ **Stack** | `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT` |
-| 🔗 **Link** | **[→ github.com/Oscarv2005/Student-Result-Management](https://github.com/Oscarv2005/Student-Result-Management)** |
+Designed an automated academic records platform that links a dynamic UI with a secure centralized backend. Implemented **JWT authentication**, **CRUD REST APIs**, and schema-level data validation to protect and manage student data at scale.
 
-</div>
+> ✅ **−40% data entry errors** &nbsp;|&nbsp; 👥 **500+ student profiles** &nbsp;|&nbsp; 🔐 **JWT secured**
 
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║              ~/projects $ █                                  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+</td>
+</tr>
+</table>
 
 </div>
 
