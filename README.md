@@ -78,14 +78,53 @@ oscar = {
 
 ## 🚀 Featured Projects
 
+<br/>
+
 <div align="center">
 
-| 🤖 Stack Predict | 📊 Student Result Management |
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    ~/projects $ ls -la                       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- Project 1 -->
+<div align="center">
+<a href="https://github.com/Oscarv2005/StackPredict-front">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=9999&color=00FF88&center=true&vCenter=true&width=700&lines=%24+cd+StackPredict+%7C+Full-Stack+ML+Prediction+Platform" alt="StackPredict"/>
+</a>
+</div>
+
+<div align="center">
+
+|  |  |
 |---|---|
-| End-to-end ML prediction platform | Secure academic records system |
-| ⚡ 14% accuracy boost · <200ms API | ✅ 40% fewer errors · 500+ profiles |
-| React · Node · Flask · Scikit-Learn | React · Node · MongoDB · Tailwind |
-| [→ View Repo](https://github.com/Oscarv2005/StackPredict-front) | [→ View Repo](https://github.com/Oscarv2005/Student-Result-Management) |
+| 📌 **About** | End-to-end ML app — React frontend · Node/Express backend · Python pipeline |
+| 🎯 **Impact** | +14% model accuracy · REST API response **< 200ms** |
+| 🛠️ **Stack** | `React` `Node.js` `Express` `Flask` `Scikit-Learn` `Pandas` `Matplotlib` |
+| 🔗 **Link** | **[→ github.com/Oscarv2005/StackPredict-front](https://github.com/Oscarv2005/StackPredict-front)** |
+
+</div>
+
+<br/>
+
+<!-- Project 2 -->
+<div align="center">
+<a href="https://github.com/Oscarv2005/Student-Result-Management">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=9999&color=00FF88&center=true&vCenter=true&width=700&lines=%24+cd+StudentResultManagement+%7C+Secure+Academic+Records+Platform" alt="StudentResult"/>
+</a>
+</div>
+
+<div align="center">
+
+|  |  |
+|---|---|
+| 📌 **About** | Automated student records system with secure auth and real-time UI |
+| 🎯 **Impact** | -40% data entry errors · Manages **500+** student profiles |
+| 🛠️ **Stack** | `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT` |
+| 🔗 **Link** | **[→ github.com/Oscarv2005/Student-Result-Management](https://github.com/Oscarv2005/Student-Result-Management)** |
 
 </div>
 
@@ -93,13 +132,11 @@ oscar = {
 
 <div align="center">
 
-<a href="https://github.com/Oscarv2005/StackPredict-front">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarv2005&repo=StackPredict-front&theme=radical&hide_border=true&border_radius=12" />
-</a>
-&nbsp;
-<a href="https://github.com/Oscarv2005/Student-Result-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarv2005&repo=Student-Result-Management&theme=radical&hide_border=true&border_radius=12" />
-</a>
+```
+╔══════════════════════════════════════════════════════════════╗
+║              ~/projects $ █                                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
