@@ -28,25 +28,6 @@
 
 </div>
 
-<br/>
-
----
-
-```python
-oscar = {
-    "role"     : ["Full Stack Developer", "Data Scientist"],
-    "frontend" : ["React", "HTML", "CSS", "Tailwind CSS"],
-    "backend"  : ["Node.js", "Express.js", "Flask"],
-    "database" : ["MongoDB", "SQL"],
-    "ml_stack" : ["Scikit-Learn", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "languages": ["Python", "C++", "C"],
-    "tools"    : ["Git", "VS Code", "Jupyter", "Power BI"],
-    "status"   : "Building cool stuff ⚡"
-}
-```
-
----
-
 ## ⚡ Tech Stack
 
 <div align="center">
