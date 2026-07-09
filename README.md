@@ -86,10 +86,6 @@
 ![Top Langs](./profile/top-langs.svg)
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscarv2005&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=D946EF&fire=22D3EE&currStreakLabel=D946EF" height="165"/>
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscarv2005&theme=tokyo-night&hide_border=true&radius=12&bg_color=0d1117&color=22D3EE&line=D946EF&point=ffffff" width="95%"/>
 
 </div>
