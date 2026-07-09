@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Scientist+in+the+making;Turning+data+into+decisions;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Data%20Pipelines-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Philosophy-Ship%20it%20today-22C55E?style=for-the-badge" />
-</p>
 
 ---
 
