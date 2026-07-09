@@ -60,14 +60,8 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Oscarv2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarv2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscarv2005&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+![Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscarv2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=F472B6" width="95%"/>
