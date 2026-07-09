@@ -1,98 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:D946EF,100:22D3EE&height=200&section=header&text=Oscar%20Vishnoi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" />
+```
+$ whoami
+```
 
-</div>
+# Oscar Vishnoi
 
-<div align="center">
+**Full Stack Developer · Data Scientist**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=D946EF&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%93%88;Building+full-stack+apps+that+ship+%F0%9F%9A%80;Always+debugging%2C+always+learning+%F0%9F%94%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2500&pause=900&color=888888&center=true&vCenter=true&width=550&lines=building+things+that+matter;shipping+code%2C+one+commit+at+a+time;data+%E2%86%92+insight+%E2%86%92+impact" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/oscar-vishnoi-data-science/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000)](https://github.com/Oscarv2005)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=000000)](mailto:oscarvishnoi0@gmail.com)
 
 </div>
 
 <br/>
 
-<div align="center">
+```
+$ cat about.md
+```
 
-<a href="https://www.linkedin.com/in/oscar-vishnoi-data-science/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Oscarv2005"><img src="https://img.shields.io/badge/GitHub-D946EF?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:oscarvishnoi0@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
+- Building across the stack — frontend, backend, and the data layer in between
+- Currently sharpening machine learning and data pipeline skills
+- Enjoys turning raw datasets into something people can actually use
+- Based on the principle: working code today beats perfect code someday
 
 <br/>
 
-## 🧭 About Me
+```
+$ ls ./skills
+```
 
-<table align="center">
+<table>
 <tr>
-<td>
+<td valign="top" width="50%">
 
-- 🔭 Currently building projects across **full-stack web dev** and **data science**
-- 🌱 Deepening my skills in **machine learning** and **cloud-scale data pipelines**
-- 💡 I like turning messy datasets into clear, usable insight
-- ⚡ Fun fact: I'd rather refactor at midnight than leave a `TODO` behind
+**Languages**
+
+`Python` `C++` `C`
+
+**Web**
+
+`React` `HTML5` `CSS3` `Node.js` `Express.js` `Flask`
+
+</td>
+<td valign="top" width="50%">
+
+**Data / ML**
+
+`scikit-learn` `Pandas` `NumPy` `Matplotlib` `Power BI`
+
+**Databases & Tools**
+
+`MongoDB` `MySQL` `Git` `VS Code` `Jupyter`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+```
+$ git log --stats
+```
 
 <div align="center">
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-6D28D9?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-6D28D9?style=flat-square&logo=c&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=Oscarv2005&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarv2005&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" height="165"/>
 
-**Web & Backend**
-<br/>
-![React](https://img.shields.io/badge/React-D946EF?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-D946EF?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-D946EF?style=flat-square&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-D946EF?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-D946EF?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-D946EF?style=flat-square&logo=flask&logoColor=white)
-
-**Data & ML**
-<br/>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-22D3EE?style=flat-square&logo=scikit-learn&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-22D3EE?style=flat-square&logo=pandas&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-22D3EE?style=flat-square&logo=numpy&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-22D3EE?style=flat-square&logo=python&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-22D3EE?style=flat-square&logo=powerbi&logoColor=black)
-
-**Databases & Tools**
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-0F172A?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=Jupyter&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](./profile/stats.svg)
-![Top Langs](./profile/top-langs.svg)
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscarv2005&theme=tokyo-night&hide_border=true&radius=12&bg_color=0d1117&color=22D3EE&line=D946EF&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscarv2005&theme=minimal&hide_border=true&bg_color=ffffff&color=000000&line=333333&point=000000" width="95%"/>
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+```
+$ ./contribution_snake.sh
+```
 
 <div align="center">
 
@@ -104,20 +97,12 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Oscarv2005&label=Profile+Views&color=D946EF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Oscarv2005&label=profile+views&color=000000&style=flat-square" />
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
-
-<br/><br/>
-
-**Thanks for stopping by — always open to interesting projects and a good conversation about data.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:D946EF,100:6D28D9&height=120&section=footer&text=Let's%20build%20something%20great&fontSize=18&fontColor=ffffff&fontAlignY=65" />
+<sub>thanks for stopping by — always open to a good project or a good conversation</sub>
 
 </div>
