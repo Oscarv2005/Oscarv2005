@@ -14,11 +14,11 @@
 
 ### 🧭 About Me
 
-- 🏗️ Building across the stack — frontend, backend, and the data layer in between
-- 📊 Currently sharpening machine learning and data pipeline skills
-- 🔍 Enjoys turning raw datasets into something people can actually use
-- ⚡ Principle: working code today beats perfect code someday
-- 🤝 Always open to a good project or a good conversation
+🏗️ I work on both the frontend and backend, plus the data side of things
+📊 Right now I'm learning more about machine learning and data pipelines
+🔍 I like taking messy data and making it easy to understand
+⚡ I believe in shipping working code now, not waiting for it to be perfect
+🤝 Feel free to reach out — I'm always up for a chat or a new project
 
 ---
 
