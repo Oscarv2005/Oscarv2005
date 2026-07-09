@@ -67,19 +67,20 @@
 </picture>
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Oscarv2005&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Oscarv2005&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="165"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarv2005&layout=compact&theme=radical&hide_border=true&border_radius=12" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscarv2005&theme=redical&hide_border=true&radius=12" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscarv2005&theme=radical&hide_border=true&radius=12" width="95%"/>
 
 </div>
 
