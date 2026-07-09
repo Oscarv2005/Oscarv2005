@@ -82,7 +82,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Oscarv2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=D946EF&icon_color=22D3EE&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+![Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarv2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=D946EF&text_color=c9d1d9&bg_color=0d1117" height="165"/>
 
 <br/><br/>
