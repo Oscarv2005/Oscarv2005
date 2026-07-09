@@ -78,9 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oscarv2005&label=Profile%20Views&color=6366F1&style=for-the-badge" />
-</p>
-
-<p align="center">
   <i>Thanks for stopping by — always open to a good project or a good conversation ✌️</i>
 </p>
