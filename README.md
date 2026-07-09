@@ -84,8 +84,6 @@
 
 ![Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarv2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=D946EF&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscarv2005&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=D946EF&fire=22D3EE&currStreakLabel=D946EF" height="165"/>
