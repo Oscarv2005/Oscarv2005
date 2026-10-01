@@ -55,10 +55,6 @@
 ![Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscarv2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=F472B6" width="95%"/>
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
