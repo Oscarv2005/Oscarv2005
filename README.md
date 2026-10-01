@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Oscar Vishnoi 👋</h1>
 <p align="center">
-  <b>Full Stack Developer · Data Scientist</b><br/>
+  <b>Frontend Developer · Data Scientist</b><br/>
   <sub>Turning raw data into things people actually use</sub>
 </p>
 
