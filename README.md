@@ -12,7 +12,6 @@
 
 ### 🧭 About Me
 
-🏗️ I work on both the frontend and backend, plus the data side of things<br>
 📊 Right now I'm learning more about machine learning and data pipelines<br>
 🔍 I like taking messy data and making it easy to understand<br>
 ⚡ I believe in shipping working code now, not waiting for it to be perfect<br>
